@@ -31,8 +31,8 @@
     "ruby",
     "kotlin"
   ],
-  "name": "ai-autocomplete",
-  "displayName": "AI-Autocomplete",
+  "name": "ai-autocomplete2",
+  "displayName": "AI-Autocomplete2",
   "description": "The lightweight open source AI code autocomplete",
   "version": "0.2.7",
   "engines": {
